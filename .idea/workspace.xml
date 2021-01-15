@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcaaeb12-8eff-4d47-8585-22fe4a6c8df9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/venn.jpg" afterDir="false" />
+    <list default="true" id="fcaaeb12-8eff-4d47-8585-22fe4a6c8df9" name="Default" comment="scripts and venn diagram thingy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_storages.html" beforeDir="false" afterPath="$PROJECT_DIR$/big_storages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/household_storages.html" beforeDir="false" afterPath="$PROJECT_DIR$/household_storages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verifiers.html" beforeDir="false" afterPath="$PROJECT_DIR$/verifiers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1mWCbJ1AOTnYDx1RIzWmrmd4JGb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -79,8 +83,16 @@
       <workItem from="1610002086401" duration="2217000" />
       <workItem from="1610006658881" duration="2136000" />
       <workItem from="1610293683123" duration="24532000" />
-      <workItem from="1610698441548" duration="3434000" />
+      <workItem from="1610698441548" duration="3892000" />
     </task>
+    <task id="LOCAL-00001" summary="scripts and venn diagram thingy">
+      <created>1610702775735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610702775735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,12 +100,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="scripts and venn diagram thingy" />
+    <option name="LAST_COMMIT_MESSAGE" value="scripts and venn diagram thingy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="78" key="CommitChangelistDialog2" timestamp="1610702739884">
+    <state x="317" y="78" key="CommitChangelistDialog2" timestamp="1610703216630">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="317" y="78" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610702739884" />
+    <state x="317" y="78" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610703216630" />
     <state x="214" y="80" key="SettingsEditor" timestamp="1610698500255">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -102,5 +116,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="419" y="301" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1610698442912" />
+    <state x="499" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610703186336">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="499" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1610703186336" />
   </component>
 </project>
