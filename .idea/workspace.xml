@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcaaeb12-8eff-4d47-8585-22fe4a6c8df9" name="Default" comment="venn diagram and footer">
+    <list default="true" id="fcaaeb12-8eff-4d47-8585-22fe4a6c8df9" name="Default" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1610006658881" duration="2136000" />
       <workItem from="1610293683123" duration="24532000" />
       <workItem from="1610698441548" duration="4127000" />
-      <workItem from="1610720309427" duration="2429000" />
+      <workItem from="1610720309427" duration="2961000" />
     </task>
     <task id="LOCAL-00001" summary="scripts and venn diagram thingy">
       <created>1610702775735</created>
@@ -102,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610724327122</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates">
+      <created>1610724593717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610724593717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,13 +121,14 @@
     <MESSAGE value="scripts and venn diagram thingy" />
     <MESSAGE value="metadata update" />
     <MESSAGE value="venn diagram and footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="venn diagram and footer" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="78" key="CommitChangelistDialog2" timestamp="1610724326880">
+    <state x="317" y="78" key="CommitChangelistDialog2" timestamp="1610724593626">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="317" y="78" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610724326880" />
+    <state x="317" y="78" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610724593626" />
     <state x="214" y="80" key="SettingsEditor" timestamp="1610698500255">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
