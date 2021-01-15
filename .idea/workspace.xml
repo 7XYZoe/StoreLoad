@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcaaeb12-8eff-4d47-8585-22fe4a6c8df9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/venn.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_storages.html" beforeDir="false" afterPath="$PROJECT_DIR$/big_storages.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -78,7 +78,8 @@
       <workItem from="1609866465711" duration="97000" />
       <workItem from="1610002086401" duration="2217000" />
       <workItem from="1610006658881" duration="2136000" />
-      <workItem from="1610293683123" duration="24065000" />
+      <workItem from="1610293683123" duration="24532000" />
+      <workItem from="1610698441548" duration="3434000" />
     </task>
     <servers />
   </component>
@@ -89,13 +90,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="214" y="80" key="SettingsEditor" timestamp="1610349386302">
+    <state x="317" y="78" key="CommitChangelistDialog2" timestamp="1610702739884">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="214" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1610349386302" />
-    <state x="419" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1610294390905">
+    <state x="317" y="78" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610702739884" />
+    <state x="214" y="80" key="SettingsEditor" timestamp="1610698500255">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="419" y="301" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1610294390905" />
+    <state x="214" y="80" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1610698500255" />
+    <state x="419" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1610698442912">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="419" y="301" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1610698442912" />
   </component>
 </project>
